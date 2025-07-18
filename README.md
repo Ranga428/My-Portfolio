@@ -1,4 +1,4 @@
-# Jenel Portfolio
+# Jenel's Portfolio
 
 ## Project Initialization
 
